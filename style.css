@@ -1,0 +1,23 @@
+body {
+	background-color: #051a19;
+	color: white;
+}
+h1 {
+	display: flex;
+	justify-content: center;
+}
+div {
+	background-color: black;
+	width: 150px;
+	height: auto;
+	display: flex;
+
+}
+p{
+	display: flex;
+	justify-content: center;
+}
+.img1{
+	width: 120px;
+	height: 120px;
+}
